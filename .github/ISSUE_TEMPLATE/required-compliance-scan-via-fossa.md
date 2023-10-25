@@ -2,7 +2,7 @@
 name: Required Compliance Scan via FOSSA
 about: The purpose of this issue template is to help you get started on compliance
   scans with FOSSA
-title: ''
+title: 'Required OSS compliance scan'
 labels: compliance-scan, fossa, open-source
 assignees: ''
 
@@ -14,27 +14,27 @@ Our company is required to go through regular compliance scans of all open sourc
 
 #### What is FOSSA?
 
-https://www.youtube.com/watch?v=J13f6l5t1wc
-https://www.youtube.com/watch?v=0CzExe1L61E
-https://www.youtube.com/watch?v=uiuB63GtilA
+- [ ] https://www.youtube.com/watch?v=J13f6l5t1wc
+- [ ] https://www.youtube.com/watch?v=0CzExe1L61E
+- [ ] https://www.youtube.com/watch?v=uiuB63GtilA
 
 #### FOSSA for Developers
 
-https://www.youtube.com/watch?v=yasx6Ji3yUs
-Using the FOSSA CLI: https://github.com/fossas/fossa-cli#getting-started
+- [ ] https://www.youtube.com/watch?v=yasx6Ji3yUs
+- [ ] Using the FOSSA CLI: https://github.com/fossas/fossa-cli#getting-started
 
 
 #### 101 FOSSA Videos
 
-Running your first scan: https://www.youtube.com/watch?v=27Xo4jIi1O0
-Understanding scan results: https://www.youtube.com/watch?v=94JWHqurXD4
-Resolving Issues: https://www.youtube.com/watch?v=9c0HzwtpUJg
-SBOMs: https://www.youtube.com/watch?v=H3UqVumgUFQ
+- [ ] Running your first scan: https://www.youtube.com/watch?v=27Xo4jIi1O0
+- [ ] Understanding scan results: https://www.youtube.com/watch?v=94JWHqurXD4
+- [ ] Resolving Issues: https://www.youtube.com/watch?v=9c0HzwtpUJg
+- [ ] SBOMs: https://www.youtube.com/watch?v=H3UqVumgUFQ
 
 #### Useful references to bookmark
-- https://github.com/fossas/fossa-cli/tree/master#fossa-cli
-- https://github.com/fossas/fossa-cli/tree/master/docs
-- https://docs.fossa.com
+- [ ] https://github.com/fossas/fossa-cli/tree/master#fossa-cli
+- [ ] https://github.com/fossas/fossa-cli/tree/master/docs
+- [ ] https://docs.fossa.com
 
 ### What do I do next?
 
